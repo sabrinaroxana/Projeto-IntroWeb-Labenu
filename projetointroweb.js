@@ -117,23 +117,33 @@ const estudantes = [
         estudante: "Lashana Lynch",
         turma: "Zhenyi",
         curso: "HTML e CSS",
-        valor: "",
-        nParcelas: ,
-        desconto: true
-        parcelas: 
+        valor: "R$ 500,00",
+        nParcelas: 1,
+        desconto: true,
+        parcelas: 400
     }
-];
+]
 
-const parcelarCurso = (parcelas) => {
-    if(parcelas <= 2){
-        cursos[1].valor === parcelas - 20%
-               
-    }else if{
+const parcelarCurso = Number
 
-        console.log("O valor da sua ")
+    if Number <= 2 {
+        cursos[1].valor(valor * 20 / 100)
+        console.log("O curso ficou no valor total de R$", ".Em", "de reais. Foi concedido desconto de 20%")           
+}else if{ 
+        console.log("O curso," $cursos, "ficou no valor total de R$", "Em",  "de", "R$",  "reais"  )
+
     } 
-}
+
+const buscarCurso = 
+
+const buscarTurma = 
+
+const buscarEstudante =  
+
+const matricular = 
+console.log("Aluno matriculado "$Nome":)
+
 
  
 
-kkkkk
+
