@@ -92,7 +92,7 @@ const cursos = [
         duracao: "6 Meses",
         valor: 2000
     }
-];
+]
 
 const estudantes = [
     {
