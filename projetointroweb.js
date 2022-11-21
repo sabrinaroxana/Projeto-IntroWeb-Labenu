@@ -94,6 +94,9 @@ const cursos = [
     }
 ]
 
+const buscarCurso = prompt(``)        
+
+
 const estudantes = [
     {
         estudante: "Chris Evans",
@@ -124,13 +127,14 @@ const estudantes = [
     }
 ]
 
-const parcelarCurso = Number
+    const parcelarCurso(parcela) {
+    const calculo = Number(parcela*(20/100));
+    console.log("Digite a quantidade de parcelas que deseja:")
 
-    if Number <= 2 {
-        cursos[1].valor(valor * 20 / 100)
-        console.log("O curso ficou no valor total de R$", ".Em", "de reais. Foi concedido desconto de 20%")           
+    if parcela <=2 
+        console.log(`O curso ${cursos} ficou no valor total de R$ ${}, Em ${}  de R$ ${}  reais. Foi concedido desconto de 20%`)           
 }else if{ 
-        console.log("O curso," $cursos, "ficou no valor total de R$", "Em",  "de", "R$",  "reais"  )
+        console.log(`O curso ${cursos} ficou no valor total de R$ ${}, Em ${}  de R$ ${}  reais`)
 
     } 
 
